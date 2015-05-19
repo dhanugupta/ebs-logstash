@@ -1,2 +1,2 @@
 # ebs-logstash
-Deploying logstash with Elastic Bean Stalk
+Deploying logstash with Elastic Bean Stalk via ebextensions method.
